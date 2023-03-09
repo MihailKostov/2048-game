@@ -3,3 +3,4 @@
 ## Link to Demo
 https://mihailkostov.github.io/2048-game/
 ## Screenshot
+![](https://github.com/MihailKostov/images/blob/master/2048-game.PNG)
